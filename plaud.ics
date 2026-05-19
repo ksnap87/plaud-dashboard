@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plaud Bot//KR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plaud 회의·액션
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:KST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cb03f2b706e3e94f31a9c421d8e3de2b@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260518T100033
+DTEND;TZID=Asia/Seoul:20260518T100157
+SUMMARY:[Plaud] 2026-05-18 10:00:33
+DESCRIPTION:폴더: (미분류)\\n길이: 1분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-0edfa5e2e5bd2014e73e0eac4a63f58d
+CATEGORIES:Plaud,(미분류)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd1b985f0927dcfde39883109e25903@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260518T100242
+DTEND;TZID=Asia/Seoul:20260518T103933
+SUMMARY:[Plaud] 05-18 구독 고객 중도 해지 시 상품권 리워드 회수 방안 논의
+DESCRIPTION:폴더: (미분류)\\n길이: 36분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-05d5410fb53845b9e0dcf05a7658830c
+CATEGORIES:Plaud,(미분류)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ce5b6242cd88cbd7242076ea737688e@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260518T130221
+DTEND;TZID=Asia/Seoul:20260518T131431
+SUMMARY:[Plaud] 05-18 가우스 기반 사내 문서 검색 챗봇 구축: 폴더 세분화·가중치·룰파일로 정확도 통
+DESCRIPTION:폴더: (미분류)\\n길이: 12분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-70cf3953fb99b3e867e7a65807bfa3d2
+CATEGORIES:Plaud,(미분류)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5bfd1cdb65646eee9b5daa30c2ee0711@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260518T131443
+DTEND;TZID=Asia/Seoul:20260518T134218
+SUMMARY:[Plaud] 05-18 구독 사업 정기 현황 점검 및 차기 계획 논의
+DESCRIPTION:폴더: 그룹장님\\n길이: 27분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-3deb14e12352f9d5f9127e604d3bb270
+CATEGORIES:Plaud,그룹장님
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc2d5eae4ae894cae88d3bc3607a7db@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260518T150016
+DTEND;TZID=Asia/Seoul:20260518T155255
+SUMMARY:[Plaud] 05-18 구독 서비스 개편 및 신규 정책 논의
+DESCRIPTION:폴더: CE팀장님회의\\n길이: 52분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-57e4e5a0a6d79a6703b7349dc445aeff
+CATEGORIES:Plaud,CE팀장님회의
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a643c3ec7a83d24145d4ff3cf20fa6f9@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260518T160747
+DTEND;TZID=Asia/Seoul:20260518T174018
+SUMMARY:[Plaud] 05-18 구독 손익 분석 및 리포팅 업무 인수인계
+DESCRIPTION:폴더: 손익분석\\n길이: 92분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-6f9d29a4ece037966b13b41d26470810
+CATEGORIES:Plaud,손익분석
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58e849a4545957a9a3da90314f51f383@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;TZID=Asia/Seoul:20260519T140707
+DTEND;TZID=Asia/Seoul:20260519T145213
+SUMMARY:[Plaud] 05-19 신규 채널 런칭 및 프로모션 운영 정책 회의
+DESCRIPTION:폴더: 그룹장님\\n길이: 45분\\n\\n전체 요약은 대시보드에서 확인:\\nhttps://ksnap87.github.io/plaud-dashboard/#meeting-36281d5d20a31eb5ac81d128fe128d2a
+CATEGORIES:Plaud,그룹장님
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88de95d3139fb1af49a6a33eccac1ac9@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:📌 LG 키친 스위트 오프라인 매장을 방문하여 금융 서비스 연계 여부 및 판매 방식 확인 후 오늘 저녁까지 메신
+DESCRIPTION:담당: 재경 파트장님\\n폴더: (미분류)\\n출처: 05-18 구독 사업 정기 현황 점검 및 차기 계획 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:750aa6c1794634d254ce32b7b7a3096d@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:📌 조폐공사 상품권 중도 해지 관련 법무팀 논의 결과(내일 오전 9시 30분) 공유하기
+DESCRIPTION:담당: Speaker 3\\n폴더: (미분류)\\n출처: 05-18 구독 사업 정기 현황 점검 및 차기 계획 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d7791d4a23b63d40a719f9b85721c8d2@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:📌 데이코 이름을 가진 제품들의 케어 상품을 최대한 빠르게 도입할 수 있도록 준비
+DESCRIPTION:담당: Speaker 2\\n폴더: (미분류)\\n출처: 05-18 구독 서비스 개편 및 신규 정책 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c31a040cee042b0dfdec461d9177e3df@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250702
+SUMMARY:📌 결합 할인이 7월 1일 적용될 수 있도록 준비
+DESCRIPTION:담당: Speaker 5\\n폴더: (미분류)\\n출처: 05-18 구독 서비스 개편 및 신규 정책 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1443727e2a09e340a4a8478441fbb6f8@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:📌 박소장님과 함께 데이코 케어 상품 도입을 6월 1일자라는 목표감으로 준비
+DESCRIPTION:담당: 정수연\\n폴더: (미분류)\\n출처: 05-18 구독 서비스 개편 및 신규 정책 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8283ab29885ceeb539b2aca74941ee2e@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:📌 정수연과 함께 데이코 케어 상품 도입을 6월 1일자라는 목표감으로 준비
+DESCRIPTION:담당: 박소장님\\n폴더: (미분류)\\n출처: 05-18 구독 서비스 개편 및 신규 정책 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50c289eef0534f84b59658a879681187@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:📌 그룹장에게 김치냉장고 등 닷컴 미노출 제품 조사와 관련해 이번 주 수요일까지만 기다려 달라고 요청
+DESCRIPTION:담당: 스티브\\n폴더: (미분류)\\n출처: 05-18 구독 손익 분석 및 리포팅 업무 인수인계\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:115319074bf194c341ae36f4cddb6135@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:📌 진단 쪽에 방해된다고 언급된 분포와 관련해 앞서 보고 있던 모델 섹터 정보를 알려주기
+DESCRIPTION:담당: 스티브\\n폴더: (미분류)\\n출처: 05-18 구독 손익 분석 및 리포팅 업무 인수인계\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,(미분류)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3fd959836c71d87323abbb2093e96bf@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:📌 LG 키친 스위트 오프라인 매장을 방문하여 금융 서비스 연계 여부 및 판매 방식 확인 후\, 오늘 저녁까지 메
+DESCRIPTION:담당: 재경 파트장님\\n폴더: 그룹장님\\n출처: 05-18 구독 사업 정기 현황 점검 및 차기 계획 논의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,그룹장님
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:80e4195df6e25c9043cb12e1d456e079@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:📌 진단 쪽에 방해된다고 언급된 분포 관련\, 앞서 보고 있던 모델 섹터 정보 알려주기
+DESCRIPTION:담당: 스티브\\n폴더: 손익분석\\n출처: 05-18 구독 손익 분석 및 리포팅 업무 인수인계\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,손익분석
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ef205f0135411abb721471986d6a0b3@plaud.ksnap87
+DTSTAMP:20260519T222004Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:📌 단품 할인을 6월 1일자로 어떻게 활용할지 재검토한다.
+DESCRIPTION:담당: Speaker 1\\n폴더: 그룹장님\\n출처: 05-19 신규 채널 런칭 및 프로모션 운영 정책 회의\\n\\n대시보드: https://ksnap87.github.io/plaud-dashboard/
+CATEGORIES:Plaud-Todo,그룹장님
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plaud 액션 마감
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
