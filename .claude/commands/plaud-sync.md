@@ -36,13 +36,15 @@ description: Plaud 새 녹음을 읽어 회의 요약·할일을 Google Calendar
        대시보드: https://ksnap87.github.io/plaud-dashboard/#meeting-<id>
        plaud_id=<id>
        ```
-   - **할일 이벤트** (노트의 모든 담당자 액션아이템, 각각):
-     - `summary`: `📌 <20자내 요약> (<담당자>)`
+   - **할일 이벤트** (담당자가 **스티브 / Steve(사장님 본인)** 인 액션아이템만, 각각):
+     - ⚠️ 다른 담당자(@Speaker N, 지원팀 리드, 국장 등) 액션은 **캘린더에 등록하지 않음** —
+       회의 이벤트 기록으로만 남기고 대시보드에 회의별 개수로만 표시. (2026-07-14 사장님 확정)
+     - `summary`: `📌 <20자내 요약> (스티브)`
      - all-day: `allDay=true`, 마감일(명시/추론된 YYYY-MM-DD, 없으면 회의 날짜), `timeZone="Asia/Seoul"`
      - `colorId="11"`, `overrideReminders=[{method:"popup",minutes:1440}]` (하루 전)
      - `description`:
        ```
-       담당: <담당자>
+       담당: 스티브
        폴더: <폴더> (출처: MM-DD <제목>)
 
        원문: <액션 원문>
@@ -50,7 +52,7 @@ description: Plaud 새 녹음을 읽어 회의 요약·할일을 Google Calendar
        대시보드: https://ksnap87.github.io/plaud-dashboard/
        plaud_todo=<id>-<순번>
        ```
-4. **보고**: 새로 등록한 회의 수·할일 수를 사용자에게 요약. 없으면 "새 녹음 없음".
+4. **보고**: 새로 등록한 회의 수·**스티브 할일 수**를 사용자에게 요약(다른 담당자 액션 개수는 참고로만 언급). 없으면 "새 녹음 없음".
 
 ## 참고
 - 중복 방지는 `plaud_id`(회의)/`plaud_todo`(할일) 키로만 판단 — 이 키를 반드시 description에 넣을 것.
